@@ -145,8 +145,8 @@ button:hover {
   color: #06489e;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 520px) {
   body {
-    padding: 20px;
+    padding: 30px;
   }
 }/*# sourceMappingURL=style.css.map */

@@ -38,6 +38,7 @@ const resetInputs = () => {
     radioGroupDolar.style.background = "#000";
     radioGroupEuro.style.background = "#000"
     radioGroupLibra.style.background = "#000"
+    radioValue = undefined;
 }
 
 // Eventos
